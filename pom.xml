@@ -66,6 +66,7 @@
 
             </plugin>
         </plugins>
+        <finalName>Notes</finalName>
     </build>
 
 </project>

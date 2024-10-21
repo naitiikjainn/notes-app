@@ -13,7 +13,6 @@ public class note {
     private Long id;
 
     private String title;
-
     private String content;
 
     public note() {
